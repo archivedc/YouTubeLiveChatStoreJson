@@ -17,7 +17,7 @@ It stores actual live chats.
             - [badge_status](#badge-status): number
 
 ### Message Type
-|`message_type`|Type|
+|message_type|Type|
 |:--|:--|
 |0|Normal Message|
 |1|Paid Chat (Super Chat)|
@@ -25,7 +25,7 @@ It stores actual live chats.
 |3|Paid Sticker|
 
 ### Badge Type
-|`badge_type`|Type|
+|badge_type|Type|
 |:--|:--|
 |0|Moderator|
 |1|Membership|
