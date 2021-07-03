@@ -3,8 +3,8 @@ Index data stores offset of each live chat data file and path.
 
 ## Struct
 - array
-    - [offset](###offset): number
-    - [path](###path)  : string
+    - [offset](#offset): number
+    - [path](#path)  : string
 
 ### offset
 first live chat data's location in seconds with after decimal point.

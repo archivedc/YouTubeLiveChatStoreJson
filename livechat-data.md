@@ -4,7 +4,7 @@ It stores actual live chats.
 ## Struct
 - array
     - seconds: number
-    - [message_type](#message-Type): number
+    - [message_type](#message-type): number
     - message: string
     - money (only available when type is paid)
         - price: number
